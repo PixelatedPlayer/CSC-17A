@@ -1,3 +1,3 @@
 # CSC-17A Fall 2018
-RCC CSC 17A Mark Lehr
+Chris Schlenker CSC 17A with Mark Lehr @ RCC
 Programming C++ Objects
